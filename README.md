@@ -6,9 +6,7 @@ I wrote a program that interacts with a populated cloud database. The program co
 
 I wrote this software, as mentioned above, to learn about how cloud databases work and to gain experience so that I can use it in future endeavors. I am interested in working with databases in the future, and I know that cloud databases are heavily used.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=lDwlC47trCg)
 
 # Cloud Database
 
@@ -28,5 +26,5 @@ I used the Firebase web application for the cloud database and I used VS Code an
 # Future Work
 
 * This could be expanded so that there are multiple "tables" to be queried
-* Item 2
-* Item 3
+* More notifications can be added to it for logging interactions and notifying the user of important events
+* More code could be added so that the user could specify which cloud database platform is hosting their database, and the Python script could have the ability to automatically connect to the platform of their choice with the correct information
