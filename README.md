@@ -22,13 +22,11 @@ I used the Firebase web application for the cloud database and I used VS Code an
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [freeCodeCamp]([http://url.link.goes.here](https://www.freecodecamp.org/news/how-to-get-started-with-firebase-using-python/))
 * [Medium]([http://url.link.goes.here](https://medium.com/theleanprogrammer/connecting-firebase-6102ef4eca08))
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
+* This could be expanded so that there are multiple "tables" to be queried
 * Item 2
 * Item 3
